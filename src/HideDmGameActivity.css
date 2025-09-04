@@ -1,0 +1,10 @@
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='wrapperQuestAccepted_'],
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_']:not(:has([class*='voiceSectionIconWrapper_'])),
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_']:has([class*='voiceSectionIconWrapper_']) [class*='section_']:has([class*='activitySection_']),
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='section_']:has([class*='gameSection_']),
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='headerFull_'] [class*='textContent_'] span,
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='headerFull_'] [class*='multipleIconWrapper_'],
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='headerFull_'] [class*='headerIcon_'],
+[class*='base_'] [class*='page_'] [class*='nowPlayingColumn_'] [class*='itemCard_'] [class*='headerFull_'] [class*='clickable_'] [class*='textContent_'] {
+  display: none !important;
+}

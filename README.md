@@ -20,3 +20,12 @@
   ![Step 3](https://i.imgur.com/dsNWmd3.png)
 
 </details>
+
+### Snippets
+
+#### Hide DM Game Activity
+Removes the game activity in DMs, showing only the people in VCs
+```css
+@import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideDmGameActivity.css');
+```
+![Hide DM Game Activity](https://i.imgur.com/PgunQLm.png)
