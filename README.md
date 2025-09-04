@@ -18,7 +18,6 @@
   1. In this popup, you must copy the code to apply the custom snippets and now you can close it. Whenever there is a ``:root`` part, paste the ``@import`` part first and then the ``:root`` part
   \
   ![Step 3](https://i.imgur.com/dsNWmd3.png)
-
 </details>
 
 ### Snippets
@@ -28,4 +27,8 @@ Removes the game activity in DMs, showing only the people in VCs
 ```css
 @import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideDmGameActivity.css');
 ```
-![Hide DM Game Activity](https://i.imgur.com/PgunQLm.png)
+<details>
+  <summary>Before/After</summary>
+
+  ![Hide DM Game Activity](https://i.imgur.com/PgunQLm.png)
+</details>
