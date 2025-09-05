@@ -25,12 +25,12 @@
 
 ### Snippets
 
-#### Hide DM Game Activity
+#### Hide Non VC Content On Active Now
 
-Removes the game activity in DMs, showing only the people in VCs
+Shows only the people in VCs on the active now tab
 
 ```css
-@import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideDmGameActivity.css');
+@import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideNonVcContentOnActiveNow.css');
 ```
 
 <details>
