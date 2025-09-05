@@ -15,18 +15,24 @@
   2. Scroll down to the "Vencord" section, click on the "Vencord" tab and press the "Edit QuickCSS" button
   \
   ![Step 2](https://i.imgur.com/p4iciK7.png)
-  1. In this popup, you must copy the code to apply the custom snippets and now you can close it. Whenever there is a ``:root`` part, paste the ``@import`` part first and then the ``:root`` part
+  3. In this popup, you must copy the code to apply the custom snippets and then you can close it
   \
   ![Step 3](https://i.imgur.com/dsNWmd3.png)
 </details>
 
+> [!NOTE] 
+> To use these snippets correctly, you must paste the ``@import`` parts first, then the ``:root`` parts and finally other custom snippets without ``@import``
+
 ### Snippets
 
 #### Hide DM Game Activity
+
 Removes the game activity in DMs, showing only the people in VCs
+
 ```css
 @import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideDmGameActivity.css');
 ```
+
 <details>
   <summary>Before/After</summary>
 
