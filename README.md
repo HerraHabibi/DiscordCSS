@@ -23,6 +23,8 @@
 > [!NOTE] 
 > To use these snippets correctly, you must paste the ``@import`` parts first, then the ``:root`` parts and finally other custom snippets without ``@import``
 
+<hr>
+
 ### Snippets
 
 #### Hide Non VC Content On Active Now
@@ -30,7 +32,7 @@
 Shows only the people in VCs on the active now tab
 
 ```css
-@import url('https://raw.githubusercontent.com/HerraHabibi/DiscordCSS/refs/heads/main/src/HideNonVcContentOnActiveNow.css');
+@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/HideNonVcContentOnActiveNow.css');
 ```
 
 <details>
