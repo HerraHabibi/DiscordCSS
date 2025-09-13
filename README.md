@@ -32,7 +32,7 @@
 Shows only the people in VCs on the active now tab
 
 ```css
-@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/HideNonVcContentOnActiveNow.css');
+@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/Hide-Non-Vc-Content-On-Active-Now.css');
 ```
 
 <details>
