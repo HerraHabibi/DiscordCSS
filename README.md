@@ -41,12 +41,12 @@ Shows only the people in VCs on the active now tab
   ![Hide DM Game Activity](https://i.imgur.com/PgunQLm.png)
 </details>
 
-#### Hide Game Activity On Server Member List
+#### Hide Activity On Server Member List
 
 Hides the activity on the server member list
 
 ```css
-@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/Hide-Game-Activity-On-Server-Member-List.css');
+@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/Hide-Activity-On-Server-Member-List.css');
 ```
 
 <details>
