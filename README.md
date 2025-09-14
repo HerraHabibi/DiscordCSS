@@ -54,3 +54,17 @@ Hides the activity on the server member list
 
   ![Hide DM Game Activity](https://i.imgur.com/WjzpCQO.png)
 </details>
+
+#### Hide Your Activity On Panel
+
+Hides your own activity on the panel section (bottom left)
+
+```css
+@import url('https://raw.githubusercontent.com/HerraHabibi/discord-css/refs/heads/main/src/Hide-Your-Activity-On-Panel.css');
+```
+
+<details>
+  <summary>Before/After</summary>
+
+  ![Hide Your Activity On Panel](https://i.imgur.com/pwksupH.png)
+</details>
