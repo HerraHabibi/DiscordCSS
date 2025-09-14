@@ -52,7 +52,7 @@ Hides the activity on the server member list
 <details>
   <summary>Before/After</summary>
 
-  ![Hide DM Game Activity](https://i.imgur.com/WjzpCQO.png)
+  ![Hide Activity On Server Member List](https://i.imgur.com/WjzpCQO.png)
 </details>
 
 #### Hide Your Activity On Panel
