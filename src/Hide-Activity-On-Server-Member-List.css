@@ -1,8 +1,4 @@
-[class*='base_'] [class*='membersWrap_'] div + [class*='membersGroup_']:has(span[class*='headerContainer_']),
-aside[class*='membersWrap_c8ffbb'] div[class*='container__0f2e8'] {
-  display: none !important;
-}
-
-[class*='base'] [class*='sidebar_'] [class*='panels_'] [class*='activityPanel_'] {
+[class*='base_'] [class*='membersWrap_'] [class*='membersGroup_']:has([class*='toggleExpandIcon_']),
+[class*='base_'] [class*='page_'] [class*='container_'] [class*='membersWrap_'] [class*='container_']:has([class*='cardRow_']) {
   display: none !important;
 }
