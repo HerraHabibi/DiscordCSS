@@ -1,4 +1,4 @@
-[class*='base_'] [class*='page_'] [class*='membersWrap_'] [class*='membersGroup_']:has([class*='toggleExpandIcon_']),
+[class*='base_'] [class*='page_'] [class*='membersWrap_'] [class*='membersGroup_']:has([class*='headerContainer_']),
 [class*='base_'] [class*='page_'] [class*='container_'] [class*='membersWrap_'] [class*='container_']:has([class*='infoSection_']) {
   display: none !important;
 }
