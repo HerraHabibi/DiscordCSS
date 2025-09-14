@@ -1,3 +1,3 @@
-[class*='base'] [class*='sidebar_'] [class*='panels_'] [class*='activityPanel_'] {
+[class*='base_'] [class*='sidebar_'] [class*='panels_'] [class*='activityPanel_'] {
   display: none !important;
 }
